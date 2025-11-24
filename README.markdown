@@ -5,9 +5,6 @@ __OpenCV computer vision with iOS: stitching panoramas__
 Version 5.0 of [OpenCVStitch](http://github.com/foundry/OpenCVStitch) - updated for Swift 5.0  + OpenCV 4.3  
 See appropriate branches and tags for Swift 2.x - 4.x
 
-This project was created to a answer a couple of Stack Overflow questions:  
-[libraries to CAPTURE panorama in iOS](http://stackoverflow.com/q/14062932/1375695)  
-[Can I mix Swift with C++? Like the Objective - C .mm files](http://stackoverflow.com/q/24042774/1375695)    
 
 v2 demonstrates how to mix Swift, Objective-C and C++ in one project whilst keeping the code clearly separate. 
 
