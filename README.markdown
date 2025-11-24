@@ -50,7 +50,6 @@ Tested with XCode 6.4 / Swift 1.2 for iOS 7.0+
 Objective-C / C++   
 Tested with XCode 4.5.2 -> 6.3 for iOS 5.1 upwards   
 
-Provides a partial answer to: [Libraries to capture panoramas in iOS 6](http://stackoverflow.com/questions/14062932/libraries-to-capture-panorama-in-ios-6/14064788#14064788) (Stack Overflow)
 
 __OpenCV Versions__   
 _OpenCV 4.3_  
